@@ -1,5 +1,5 @@
 {
-  "name": "wiki-desktop",
+  "name": "react-electron",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -54,8 +54,8 @@
   },
   "author": {
     "name": "smlee",
-    "email": "smlee@warevalley.com",
-    "url": "https://warevalley.com"
+    "email": "lyasee@naver.com",
+    "url": "http://lyasee.com"
   },
   "build": {
     "appId": "com.my-website.my-app",
