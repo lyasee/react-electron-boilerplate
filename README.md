@@ -1,5 +1,5 @@
-# react-electron-boilerplate
-React electron boilerplate  
+# react-electron-sample
+React electron sample  
 
 Dev  
 ```
